@@ -1,0 +1,12 @@
+{
+"ServerConfig": {
+  "mqtt_cert_name": "isrgrootx1.pem",
+  "mqtt_port": 8883,
+  "mqtt_url": "www.terralynk.com",
+  "organization": "ideanomics/solectrac",
+  "password": "Ys20ir0HjoXuMCBzyX0IuRrZ8oEhP7o",
+  "user": "ideanomics_rem",
+  "vhost": "ideanomics",
+  "mqtt_keep_alive": 10
+  }
+}
